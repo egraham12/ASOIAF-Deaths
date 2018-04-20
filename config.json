@@ -8,9 +8,9 @@
     "text": "Emily Graham"
   },
   "text": {
-    "more": "test",
+    "more": "A network graph of as many of the deaths as I could account for in George R. R. Martin's series A Song of Ice and Fire. Created in Gephi and exported using the Sigma.js plugin from the Oxford Internet Institute. I didn't re-read the series to create this, and instead pillaged A Wiki of Ice and Fire for their data. <br>A few notes on arbitrary decisions:<br>(1) When characters had conflicting/changing allegiances, I chose the region they're from<br>(2) If someone is kicked into a bear pit, I attributed it to the character who did the kicking rather than the bear<br>(3) When possible, avoid using a generic group (e.g. Bolton soldiers) and connect the person who ordered it (e.g. Ramsay Snow)<br>(4) Red arrow indicates direct responsibility, orange arrow indicates indirect responsibility",
     "intro": "most of the deaths in <i>A Song of Ice and Fire</i>",
-    "title": "Foul Play"
+    "title": "A Graph of Death and Murder"
   },
   "legend": {
     "edgeLabel": "death",
