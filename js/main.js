@@ -1,5 +1,5 @@
 var sigInst, canvas, $GP
-var groupNames = ['The Stormlands','Essos','Nights Watch','Iron Islands','The North','The Riverlands','Targaryen','The Vale','Free Folk','The Westerlands','The Crownlands','The Reach','Dorne','Misc.'];
+var groupNames = ['The Crownlands','The Reach','The Riverlands','Nights Watch','The North','The Westerlands','Dorne','Essos','The Vale','Targaryen','N/A','The Stormlands','Iron Islands','Free Folk'];
 
 //Load configuration file
 var config={};
